@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GoORMHelperCache">
+    <option name="schemaMapping">
+      <map>
+        <entry key="AdvertIdea">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/../go/dsp_go/app/api/test/test.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="BaseController">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/../go/dsp_go/app/api/advert/v1/base_controller.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="IdeaGroup">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/../go/dsp_go/app/api/advert/v1/ideagroup/ideagroup_controller.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="IdeagroupController">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/../go/dsp_go/app/api/advert/v1/ideagroup/ideagroup_controller.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="Limit">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/../go/dsp_go/app/api/manage/v1/limit/limit_controller.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="LimitController">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/../go/dsp_go/app/api/manage/v1/limit/limit_controller.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="Params">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/../go/dsp_go/app/api/manage/v1/limit/limit_controller.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="SLSLog">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/../go/dsp_go/app/api/test/test.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="SLSResponse">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/../go/dsp_go/app/api/test/test.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="Test">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/../go/dsp_go/app/api/test/test.go" />
+            </set>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="scannedPathMapping">
+      <map>
+        <entry key="file://$PROJECT_DIR$/../go/dsp_go/app/api/advert/v1/base_controller.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1728372707882" />
+              <option name="schema">
+                <list>
+                  <option value="BaseController" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/../go/dsp_go/app/api/advert/v1/ideagroup/ideagroup_controller.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1728373735723" />
+              <option name="schema">
+                <list>
+                  <option value="IdeagroupController" />
+                  <option value="IdeaGroup" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/../go/dsp_go/app/api/manage/v1/limit/limit_controller.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1728463739154" />
+              <option name="schema">
+                <list>
+                  <option value="LimitController" />
+                  <option value="Limit" />
+                  <option value="Params" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/../go/dsp_go/app/api/test/test.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1728454417440" />
+              <option name="schema">
+                <list>
+                  <option value="Test" />
+                  <option value="SLSLog" />
+                  <option value="AdvertIdea" />
+                  <option value="SLSResponse" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/../go/dsp_go/helpers/const.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1728459702430" />
+            </ScannedPath>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="tableStructMapping">
+      <map>
+        <entry key="advert_idea" value="AdvertIdea" />
+        <entry key="base_controller" value="BaseController" />
+        <entry key="idea_group" value="IdeaGroup" />
+        <entry key="ideagroup_controller" value="IdeagroupController" />
+        <entry key="limit" value="Limit" />
+        <entry key="limit_controller" value="LimitController" />
+        <entry key="params" value="Params" />
+        <entry key="sls_log" value="SLSLog" />
+        <entry key="sls_response" value="SLSResponse" />
+        <entry key="test" value="Test" />
+      </map>
+    </option>
+    <option name="lastTimeChecked" value="1728371892948" />
+  </component>
+</project>
